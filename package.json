@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikk30-lilly/node-demo.git"
+  },
+  "author": "Nirmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikk30-lilly/node-demo/issues"
+  },
+  "homepage": "https://github.com/nikk30-lilly/node-demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
